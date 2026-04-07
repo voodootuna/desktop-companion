@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+
+# Build output
+.vite/
+out/
+
+# Electron Forge
+dist/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Env
+.env
+.env.local
+.env.*.local
+
+# Project-specific
+docs/
+CLAUDE.md
+package.json.bak
