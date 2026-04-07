@@ -30,4 +30,5 @@ Thumbs.db
 # Project-specific
 docs/
 CLAUDE.md
+.claude/
 package.json.bak
